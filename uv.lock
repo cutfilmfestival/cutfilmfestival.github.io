@@ -29,10 +29,14 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "mkdocs" },
+    { name = "mkdocs-dracula-theme" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "mkdocs", specifier = ">=1.6.1" }]
+requires-dist = [
+    { name = "mkdocs", specifier = ">=1.6.1" },
+    { name = "mkdocs-dracula-theme", specifier = ">=1.0.8" },
+]
 
 [[package]]
 name = "ghp-import"
@@ -128,6 +132,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/bc/c6/bbd4f061bd16b378247f12953ffcb04786a618ce5e904b8c5a01a0309061/mkdocs-1.6.1.tar.gz", hash = "sha256:7b432f01d928c084353ab39c57282f29f92136665bdd6abf7c1ec8d822ef86f2", size = 3889159, upload-time = "2024-08-30T12:24:06.899Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/22/5b/dbc6a8cddc9cfa9c4971d59fb12bb8d42e161b7e7f8cc89e49137c5b279c/mkdocs-1.6.1-py3-none-any.whl", hash = "sha256:db91759624d1647f3f34aa0c3f327dd2601beae39a366d6e064c03468d35c20e", size = 3864451, upload-time = "2024-08-30T12:24:05.054Z" },
+]
+
+[[package]]
+name = "mkdocs-dracula-theme"
+version = "1.0.8"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "mkdocs" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/d4/6e/a0fa20a34e9bb6194a0668a3f9ecf2b2e00b6204526ec64ff6ee96368cf9/mkdocs_dracula_theme-1.0.8.tar.gz", hash = "sha256:5da6e9b118e3379b5591780ade6e8ad9f3d8ac70c28e50e7fd2a4548670581e5", size = 458668, upload-time = "2025-08-04T18:25:34.369Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/04/ba/39fa5ac5017caedca6bd9d722cf451597b0d4ff6e6cc5b0e735892ff2a42/mkdocs_dracula_theme-1.0.8-py3-none-any.whl", hash = "sha256:bea486ec581792ae7eb2de3ec70c729df9740b56c552654cf38bcdb0979cbe37", size = 465211, upload-time = "2025-08-04T18:25:33.303Z" },
 ]
 
 [[package]]
