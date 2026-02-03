@@ -135,5 +135,4 @@ Velkommen til årets visning! Under finner du programmet for kvelden. Klikk på 
 * **Sjanger:** Mockumentary
 * **Beskrivelse:** En kortfilm om elendige ungdommer i sin deltidsstilling. Et undercover crew følger tre ungdommer for å avsløre alle feilene de gjør i løpet av en arbeidsdag.
 </details>
-
 ---
