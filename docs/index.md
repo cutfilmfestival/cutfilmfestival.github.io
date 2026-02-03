@@ -1,4 +1,4 @@
-# CUT! Glemmen Filmfestival :clapper:
+# CUT! Glemmen Filmfestival
 **Sted:** Fredrikstad Kino, Sal 2  
 **Tid:** Tirsdag 10. februar, kl. 17:30 – 20:00
 
@@ -10,10 +10,9 @@ Velkommen til årets visning! Under finner du programmet for kvelden. Klikk på 
 
 <details>
 <summary><b>Hun som bor i dukken</b></summary>
-
-* **Regissør:** Adrian Vogt Chylie
-* **Sjanger:** Skrekk
-* **Beskrivelse:** En gutt er hjemme alene, han blir bedt om å gjøre faren hans en tjeneste over telefon, men det er noe som ikke stemmer. En dukke følger etter han og skjuler mørke familie hemmeligheter.
+**Regissør:** Adrian Vogt Chylie
+**Sjanger:** Skrekk
+**Beskrivelse:** En gutt er hjemme alene, han blir bedt om å gjøre faren hans en tjeneste over telefon, men det er noe som ikke stemmer. En dukke følger etter han og skjuler mørke familie hemmeligheter.
 </details>
 
 <details>
