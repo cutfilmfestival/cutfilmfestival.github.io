@@ -12,7 +12,7 @@ markdown_extensions:
 
 nav:
   - Hjem: index.md
-  - Filmprogram (samme side):
+  - Filmer som blir vist:
       - Hun som bor i dukken: "/#hun-som-bor-i-dukken"
       - Anosminne: "/#anosminne"
       - Busstoppet: "/#busstoppet"
