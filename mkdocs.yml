@@ -8,7 +8,7 @@ theme:
 markdown_extensions:
   - attr_list
   - toc:
-      permalink: true
+      permalink: ""
 
 nav:
   - Hjem: index.md
