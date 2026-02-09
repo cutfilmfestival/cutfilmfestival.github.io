@@ -1,141 +1,120 @@
 # CUT! Glemmen Filmfestival
 
-!!! info "Praktisk informasjon"
-    **Sted:** Fredrikstad Kino, Sal 2  
-    **Tid:** Tirsdag 10. februar, kl. 17:30 – 20:00  
+**Sted:** Fredrikstad Kino, Sal 2  
+**Tid:** Tirsdag 10. februar, kl. 17:30 – 20:00  
 
 Velkommen til årets visning! Under finner du programmet for kvelden.
 
 ---
 
-## 🎬 Filmprogram
+## Filmprogram
 
-> Klikk på en film for å lese mer om den.
-
----
-
-### 🎥 Hun som bor i dukken
+### Hun som bor i dukken
 **Regissør:** Adrian Vogt Chylie  
 **Sjanger:** Skrekk  
-
-> En gutt er hjemme alene. Han blir bedt om å gjøre faren hans en tjeneste over telefon, men det er noe som ikke stemmer. En dukke følger etter ham og skjuler mørke familiehemmeligheter.
+**Beskrivelse:** En gutt er hjemme alene, han blir bedt om å gjøre faren hans en tjeneste over telefon, men det er noe som ikke stemmer. En dukke følger etter han og skjuler mørke familie hemmeligheter.
 
 ---
 
-### 🎥 Anosminne
+### Anosminne
 **Regissør:** Sara Holte-Kalgraff  
 **Sjanger:** Kunst, Dokumentar, Biografi  
-
-> Filmen tar oss med inn i en verden uten lukt – en sans de fleste av oss tar for gitt. Gjennom et nært og personlig blikk utforsker kortfilmen hvordan luktesansen er dypt forankret i både samfunnet vi lever i og i følelses- og minnessentrene våre. Når denne sansen mangler, oppstår en usynlig avstand til omgivelsene og menneskene rundt. Filmen skildrer følelsen av å stå utenfor, men også reisen mot å akseptere seg selv.
+**Beskrivelse:** Filmen tar oss med inn i en verden uten lukt, en sans de fleste av oss tar for gitt. Gjennom et nært og personlig blikk utforsker kortfilmen hvordan luktesansen er dypt forankret i både samfunnet vi lever i og i følelses- og minnessentrene våre. Når denne sansen mangler, oppstår en usynlig avstand til omgivelsene og menneskene rundt. Filmen skildrer følelsen av å stå utenfor, av å ikke helt høre til, men også reisen mot å akseptere seg selv.
 
 ---
 
-### 🎥 Busstoppet
+### Busstoppet
 **Regissør:** Amanda Søderberg Knudsen  
 **Sjanger:** Coming of age  
-
-> To ukjente møtes ved tilfeldighet og knytter seg til hverandre på forskjellige måter. Gjennom både latter og frustrasjon lærer de om forbindelser til andre mennesker, vennskap og noe om seg selv.
+**Beskrivelse:** To ukjente møtes ved tilfeldighet og knytter seg til hverandre på forskjellige måter. Gjennom både latter og frustrasjon, lærer de om forbindelser til andre mennesker, vennskap og noe om seg selv.
 
 ---
 
-### 🎥 Et Ekko av henne
+### Et Ekko av henne
 **Regissør:** Stephan Teig  
 **Sjanger:** Kortfilm, Drama, Mysterium, Thriller  
-
-> År etter at tenåringsdatteren hans tragisk forsvant, tar en sørgende fars liv en uhyggelig vending når han begynner å motta talemeldinger fra telefonen hennes. Nå må han bestemme seg: er dette et grusomt bedrag, eller en siste gave fra den andre siden av graven?
+**Beskrivelse:** År etter at tenåringsdatteren hans tragisk forsvant, tar en sørgende fars liv en uhyggelig vending når han begynner å motta talemeldinger fra telefonen hennes. Nå må han bestemme seg: er dette et grusomt bedrag, eller en siste gave fra den andre siden av graven?
 
 ---
 
-### 🎥 AI tar over verden
+### AI tar over verden
 **Regissør:** Alexander og Daniel Skyrud  
-**Sjanger:** Humor / drama  
-
-> Det er år 2050, og AI har tatt over samfunnet. Oppfinner Robert Robotheimer fremstår som en helt, men er egentlig en korrupt jævel som ønsker å masseprodusere AI-roboter på en fabrikk på Øra.
+**Sjanger:** Humor/drama  
+**Beskrivelse:** Det er år 2050, og AI har tatt over samfunnet. Oppfinner Robert Robotheimer fremstår som en helt, men er egentlig en korrupt jævel som ønsker å masseprodusere AI roboter på en fabrikk på Øra.
 
 ---
 
-### 🎥 En Hvit Jul – trailer
+### En Hvit Jul - trailer
 **Regissør:** Alexander og Daniel Skyrud  
-**Sjanger:** Humor / drama  
-
-> Grinchen har satt opp kullkraftverk og skapt klimakrise for å stanse all snø. Nissen får en knekk, men bestemmer seg til slutt for å gjøre opp med Grinchen på voldelig vis.
+**Sjanger:** Humor/drama  
+**Beskrivelse:** Grinchen har satt opp masse kullkraftverk og skapt klimakrise for å stanse all snø. Nissen får en knekk, men bestemmer seg til slutt for å gjøre opp med Grinchen på noe voldelig vis.
 
 ---
 
-### 🎥 Frost 2 (DUB)
+### Frost 2 (DUB)
 **Regissør:** Eric Akira Fron  
 **Sjanger:** Underholdning  
-
-> En ny dub med sang fra den kjente barnefilmen *Frost 2*. Olaf og gjengen møter nye mennesker, og Olaf tar ansvar for å introdusere alle.
+**Beskrivelse:** En ny dub med sang fra den kjente barnefilmen Frost 2. Dette er fra da Olaf og gjengen møter nye mennesker og Olaf tar ansvar for å introdusere alle.
 
 ---
 
-### 🎥 The Gym – Episode 1 & 2
+### The Gym Episode 1 & 2
 **Regissør:** Odin James  
 **Sjanger:** Mockumentary  
-
-> A mockumentary-style skildring av treningslivets hverdag og hvor intimiderende det kan være for nybegynnere.
+**Beskrivelse:** A mockumentary style play of gym life and how intimidating it can be for newcomers.
 
 ---
 
-### 🎥 Bursdag på Leos
+### Bursdag på Leos
 **Regissør:** Sara Emilie Andersen-Øiumshaugen  
 **Sjanger:** Underholdning  
-
-> En kort video som viser ensomheten ved å være barn som står utenfor i klassen, og hvor viktig det er at foreldrene er der.
+**Beskrivelse:** En kort video som viser ensomheten ved å være barn som er utenfor i klassen. Hvor viktig det er at foreldrene er der for barna.
 
 ---
 
-### 🎥 Dialogen
+### Dialogen
 **Regissør:** Benjamin Grønberg  
 **Sjanger:** Drama  
-
-> En dramatisering av en ferdiglaget dialog på ett minutt. To gamle venner møtes igjen og snakker om tidligere problemer.
+**Beskrivelse:** En dramatisering av en ferdiglaget dialog på ett minutt. To gamle venner møtes igjen og snakker om tidligere problemer.
 
 ---
 
-### 🎥 Selvforsvar med Karate-Karl
+### Selvforsvar Med Karate-Karl
 **Regissør:** Jonathan Forsell Hansen  
 **Sjanger:** Fiktiv komedie  
-
-> En karateinstruktør demonstrerer forsvarsteknikker på tilsynelatende harmløse mennesker.
+**Beskrivelse:** En karateinstruktør demonstrerer forsvarsteknikker på harmløse mennesker.
 
 ---
 
-### 🎥 Skogen
+### Skogen
 **Regissør:** Simon Bråten, Hermann Roos og Hugo Holmquist  
 **Sjanger:** Action  
-
-> Kort actionfilm.
+**Beskrivelse:** Kort actionfilm.
 
 ---
 
-### 🎥 Karl Drais og sykkelen
+### Karl Drais og sykkelen
 **Regissør:** Simon Bråten og Hermann Roos  
 **Sjanger:** Dokumentar  
-
-> Dokumentar om sykkelens opprinnelse og mannen bak oppfinnelsen.
+**Beskrivelse:** Dokumentar om sykkelens opprinnelse og skaperen av sykkelen.
 
 ---
 
-### 🎥 Trailer for *Kikis Budservice* (Max)
+### Trailer for "Kikis Budservice" på Max
 **Regissør:** Emily Dorthea Bjørling Nilsen  
 **Sjanger:** Lyd / Dub / Trailer  
-
-> Et dypdykk i lyddesign og dubbing, med bruk av miljølyd, musikk, tale og lydeffekter.
+**Beskrivelse:** Et dypdykk i lyddesign og dubbing. Det er brukt ulike virkemidler slik som miljølyd, musikk, tale og lydeffekter.
 
 ---
 
-### 🎥 Bad Goodbyes – Southern Outlaws
-**Regissør:** Emily Dorthea Bjørling Nilsen & Valeria Eirin Helene Lie  
+### Bad Goodbyes - Southern Outlaws
+**Regissør:** Emily Dorthea Bjørling Nilsen og Valeria Eirin Helene Lie  
 **Sjanger:** Musikkvideo (Rock)  
-
-> En musikkvideo laget for bandet Southern Outlaws, som kombinerer en storyline med klipp fra bandets øvingslokale.
+**Beskrivelse:** En musikkvideo laget for bandet Southern Outlaws. Filmen kombinerer en storyline med klipp fra bandets øvingslokale.
 
 ---
 
-### 🎥 Deltis-kaos
+### Deltis-kaos
 **Regissør:** Eric Akira Fron  
 **Sjanger:** Mockumentary  
-
-> En kortfilm om elendige ungdommer i deltidsjobb. Et undercover-crew følger tre ungdommer for å avsløre alle feilene de gjør i løpet av en arbeidsdag.
+**Beskrivelse:** En kortfilm om elendige ungdommer i sin deltidsstilling. Et undercover crew følger tre ungdommer for å avsløre alle feilene de gjør i løpet av en arbeidsdag.
