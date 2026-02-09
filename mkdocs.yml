@@ -1,5 +1,13 @@
-site_name: CUT! Glemmen Filmfestival
+site_name: "CUT! Glemmen Filmfestival"
 
 theme:
   name: dracula
 
+nav:
+  - Hjem: index.md
+
+markdown_extensions:
+  - admonition
+  - md_in_html
+  - toc:
+      permalink: true
