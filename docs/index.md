@@ -37,12 +37,12 @@ Velkommen til årets visning! Under finner du programmet for kvelden.
 
 ---
 
-## Panel-samtale (rett etter *Et Ekko av henne*) {#panel-samtale}
+## Panel-samtale {#panel-samtale}
 
 **Når:** Rett etter visningen av *Et Ekko av henne*  
 **Varighet:** ca. 10–15 min (kan justeres)
 
-En kort panelsamtale der vi snakker om filmene, festivalen og hvordan det er å jobbe med media – og så åpner vi for spørsmål fra salen.
+En kort panelsamtale med *Stephan Teig (Regissør av Et Ekko av henne)* & *Aron Benedict Magnus Folkestad (Produsent av Et Ekko av henne) *der vi snakker om film, festivalen og hvordan det er å jobbe med media – og så åpner vi for spørsmål fra salen.
 
 ---
 
