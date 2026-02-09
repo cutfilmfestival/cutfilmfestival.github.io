@@ -1,4 +1,32 @@
-site_name: CUT! Glemmen Filmfestival
+site_name: "CUT! Glemmen Filmfestival"
 
 theme:
   name: dracula
+  # Favicon (legg filen i docs/assets/favicon.ico)
+  favicon: assets/favicon.ico
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - Hjem: index.md
+  - Filmprogram (samme side):
+      - Hun som bor i dukken: "/#hun-som-bor-i-dukken"
+      - Anosminne: "/#anosminne"
+      - Busstoppet: "/#busstoppet"
+      - Et Ekko av henne: "/#et-ekko-av-henne"
+      - Panel-samtale: "/#panel-samtale"
+      - AI tar over verden: "/#ai-tar-over-verden"
+      - En Hvit Jul (trailer): "/#en-hvit-jul-trailer"
+      - Frost 2 (DUB): "/#frost-2-dub"
+      - The Gym Episode 1 & 2: "/#the-gym-episode-1-2"
+      - Bursdag på Leos: "/#bursdag-pa-leos"
+      - Dialogen: "/#dialogen"
+      - Selvforsvar Med Karate-Karl: "/#selvforsvar-med-karate-karl"
+      - Skogen: "/#skogen"
+      - Karl Drais og sykkelen: "/#karl-drais-og-sykkelen"
+      - Trailer for Kikis Budservice (Max): "/#trailer-for-kikis-budservice-pa-max"
+      - Bad Goodbyes - Southern Outlaws: "/#bad-goodbyes---southern-outlaws"
+      - Deltis-kaos: "/#deltis-kaos"
