@@ -37,6 +37,101 @@ Velkommen til årets visning! Under finner du programmet for kvelden.
 
 ---
 
+## Panel-samtale (rett etter *Et Ekko av henne*) {#panel-samtale}
+
+**Når:** Rett etter visningen av *Et Ekko av henne*  
+**Varighet:** ca. 10–15 min (kan justeres)
+
+En kort panelsamtale der vi snakker om filmene, festivalen og hvordan det er å jobbe med media – og så åpner vi for spørsmål fra salen.
+
+---
+
+### Del 1: Film & festival
+
+**1. Introduksjon (Stephan)**  
+- Hei! Jeg heter Stephan, og dette er Aron.  
+- Kort om **CUT! Glemmen Filmfestival**  
+- Dette er **elevfilmer**  
+- Hvorfor vi arrangerer dette  
+  - Formålet er å vise hva elever kan få til, og inspirere flere til å prøve  
+- Veldig kort om filmen *Et Ekko av henne*
+
+**2. Hva synes dere? (Aron)**  
+- Hva var førsteinntrykket?  
+- Var det noe som skilte seg ut?  
+- Hvordan var stemningen?  
+*(Vi spør på en enkel måte så alle kan svare, uten filmspråk.)*
+
+**3. Festivaler (Stephan)**  
+- Litt om **CUT!**  
+- Andre festivaler man kan sende inn til  
+- Hvorfor det er smart å sende inn film  
+  - Man lærer mye  
+  - Festival = møte folk + vise fram det man lager
+
+**4. Hva er veien videre? (Begge) – kort**  
+- Nye prosjekter / fortsetter vi med denne filmen?  
+- Studier / jobb / videre planer  
+- Flere veier innen media, f.eks.:  
+  - Innholdsprodusent  
+  - Medietekniker  
+  - Mediedesign  
+  - Film / foto / klipp / SoMe
+
+---
+
+### Del 2: Jobbe med media
+
+**1. Roller / yrker (Stephan)** *(kort forklart)*  
+- Fotograf  
+- Lyd  
+- Klipper  
+- Produsent  
+- Innholdsprodusent  
+- Medietekniker  
+- Mediedesigner  
+> Poeng: *Media er mye mer enn bare film.*
+
+**2. Gjest: Cast / crew (Aron)**  
+- Hva de gjorde  
+- Hvordan det var  
+- Hva de lærte
+
+**3. Erfaringer fra en produksjon (Stephan)**  
+- Hva var gøy?  
+- Hva var vanskelig?  
+- Hva lærte dere?
+
+**4. Samarbeid i crew (Aron)**  
+- Planlegging  
+- Teamarbeid  
+- Tid og frister  
+- Resultatet til slutt
+
+---
+
+### Del 3: Spørsmål fra salen
+
+**Åpning (Stephan)**  
+Nå åpner vi for spørsmål. Det er også bransjefolk i salen i kveld, så dere kan spørre om alt dere lurer på.
+
+**Fast spørsmålsstiller (eget ark)**  
+Hvis det blir stille, kan vi bruke disse spørsmålene:  
+- Hvordan startet dere med dette?  
+- Må man være “proff” for å lage film?  
+- Hva er det vanskeligste med media?  
+- Hva kan man jobbe som etterpå?  
+- Kan dette bli en jobb, eller bare hobby?  
+- Hva ville dere gjort annerledes i dag?
+
+**Publikum**  
+- Åpent for spørsmål
+
+**Avslutning (Aron)**  
+Takk for at dere kom. Håper dere ble inspirert – nyt resten av festivalen!
+
+---
+
 ### AI tar over verden
 **Regissør:** Alexander og Daniel Skyrud  
 **Sjanger:** Humor/drama  
